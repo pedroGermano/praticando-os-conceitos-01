@@ -54,3 +54,8 @@
   color: var(--gray-100);
   border: none;
 }
+
+.newTaskForm button:hover {
+  cursor: pointer;
+  background: var(--blue);
+}
